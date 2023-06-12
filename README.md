@@ -2,6 +2,8 @@
 
 # Introduction
 
+> FYI this is now documented in the official Azure Firewall FAQ https://learn.microsoft.com/en-us/azure/firewall/firewall-faq#how-can-i-stop-and-start-azure-firewall
+
 [Azure Firewall](https://docs.microsoft.com/en-us/azure/firewall/) is a cloud native firewall that is [rapidly](https://azure.microsoft.com/en-gb/blog/upgrade-your-network-protection-with-azure-firewall-premium/) increasing in functionality. As one of the fastest growing Azure Networking products it is therefore natural that many customers want to trial and test these services within a lab scenario, prior to deployment in production.
 
 In addition to this many individuals on learning tracks such as [Exam AZ-700: Designing and Implementing Microsoft Azure Networking Solutions](https://docs.microsoft.com/en-us/learn/certifications/exams/az-700) wish to get hands on experience to compliment their theoretical reading.
