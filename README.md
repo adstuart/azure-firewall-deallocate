@@ -1,3 +1,9 @@
+> ⚠️ **Archived — April 2026**
+>
+> Azure Firewall stop/start (deallocate/allocate) is now fully covered in the [official Azure Firewall FAQ](https://learn.microsoft.com/en-us/azure/firewall/firewall-faq#how-can-i-stop-and-start-azure-firewall). The Application Gateway notes in this repo reference the legacy AzureRM PowerShell module and are no longer current.
+
+---
+
 # Stop / Start Azure Firewall for lab/poc scenarios
 
 # Introduction
